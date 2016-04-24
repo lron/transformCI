@@ -1,0 +1,25 @@
+{
+    "success": {
+        "total": 1
+    },
+    "contents": {
+        "quotes": [
+            {
+                "quote": "Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb.",
+                "length": "99",
+                "author": "Greg Child",
+                "tags": [
+                    "inspire",
+                    "meaning",
+                    "mountaineering",
+                    "tso-life"
+                ],
+                "category": "inspire",
+                "date": "2016-04-20",
+                "title": "Inspiring Quote of the day",
+                "background": "https://theysaidso.com/img/bgs/man_on_the_mountain.jpg",
+                "id": "4wWSyA_IO87jFwNPKkN7aweF"
+            }
+        ]
+    }
+}
