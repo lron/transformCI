@@ -2,6 +2,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
+	<groupId>com.camelinaction</groupId>
     <artifactId>chapter3</artifactId>
     <packaging>pom</packaging>
     <version>1.0.0</version>
